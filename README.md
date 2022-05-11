@@ -1,6 +1,7 @@
-1. Deposit some ETH to Aave
-2. Borrow some asset with the ETH collateral
+1. Swap ETH for WETH
+2. Deposit some ETH to Aave
+3. Borrow some asset with the ETH collateral
    1. Sell that borrowed asset. (Short selling)
-3. Repay everything back
+4. Repay everything back
 
 Paraswap, uniswap
